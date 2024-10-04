@@ -13,6 +13,12 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+# IDE-specific files
+/.classpath
+/.project
+
+# Maven build files
+/target/
 
 # External tool builders
 .externalToolBuilders/
